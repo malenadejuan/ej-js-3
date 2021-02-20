@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: #9ed9e3;
+}
+
+.formulario {
+  margin-top: 40vh;
+  background-color: #59a17e;
+}
