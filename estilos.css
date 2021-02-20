@@ -7,9 +7,12 @@ body {
   padding: 0;
   height: 100vh;
   background-color: #9ed9e3;
+  color: white;
 }
 
 .formulario {
   margin-top: 40vh;
   background-color: #59a17e;
+  padding: 50px;
+  border-radius: 20px;
 }
