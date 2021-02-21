@@ -39,6 +39,7 @@ function contieneBle(palabra) {
     ble = " no ";
   }
   console.log(`La palabra${ble}contiene "ble"`);
+  console.log(`#######`);
 }
 
 
